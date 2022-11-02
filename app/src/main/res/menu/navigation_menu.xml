@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <group>
+                <item
+                    android:title="Profile">
+                        <menu>
+                                <item
+                                    android:id="@+id/profile"
+                                    android:title="Profile"
+                                    android:icon="@drawable/ic_baseline_account_circle_24">
+                                </item>
+
+                        </menu>
+                </item>
+
+        </group>
+        <group android:checkableBehavior="single"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:ignore="HardcodedText">
+
+
+        <item
+            android:id="@+id/nav_history"
+            android:title="HISTORY"
+            android:icon="@drawable/ic_baseline_bar_chart_24"/>
+
+        <item
+            android:id="@+id/nav_reset"
+            android:title="RESET"
+            android:icon="@drawable/ic_baseline_refresh_24"/>
+
+        <item
+            android:id="@+id/nav_logout"
+            android:title="LOG OUT"
+            android:icon="@drawable/ic_baseline_power_settings_new_24"/>
+
+        <item
+            android:id="@+id/nav_exit"
+            android:title="EXIT"
+            android:icon="@drawable/ic_baseline_exit_to_app_24"/>
+        </group>
+
+        <group>
+                <item
+                    android:title="THEME">
+                        <menu>
+                                <item
+                                    android:id="@+id/theme1"
+                                    android:title="light mode"
+                                    android:icon="@drawable/ic_baseline_wb_sunny_24">
+                                </item>
+                                <item
+                                    android:id="@+id/theme2"
+                                    android:title="dark mode"
+                                    android:icon="@drawable/ic_baseline_brightness_3_24">
+                                </item>
+                        </menu>
+                </item>
+
+        </group>
+    </menu>
+
+
+

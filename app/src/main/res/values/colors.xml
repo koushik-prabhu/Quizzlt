@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#087104</color>
+    <color name="purple_700">#015505</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#059505</color>
+    <color name="light_green">#06982B</color>
+    <color name="dark_blue">#031755</color>
+    <color name="red">#A30303</color>
+
+    <color name="text_colors">#FBFBFB</color>
+    <color name="sub_topic_text_color">#A6A5A5</color>
+    <color name="qna_main_background">#FFFFFF</color>
+    <color name="qna_background">#FFFFFF</color>
+    <color name="qna_text_question">#040404</color>
+
+    <color name="qna_text_options">#040404</color>
+
+
+
+
+<!--    pie chart colors-->
+    <color name="pie_green">#0D9C08</color>
+    <color name="pie_red">#CA0707</color>
+    <color name="pie_grey">#ABAEAB</color>
+    <color name="pie_black">#2F302F</color>
+
+
+</resources>

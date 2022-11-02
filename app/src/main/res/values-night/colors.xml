@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#087104</color>
+    <color name="purple_500">#087104</color>
+    <color name="purple_700">#015505</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#070000</color>
+    <color name="green">#059505</color>
+    <color name="light_green">#06982B</color>
+    <color name="dark_blue">#031755</color>
+    <color name="red">#A30303</color>
+
+    <color name="text_colors">#F8F8F8</color>
+    <color name="sub_topic_text_color">#FFFFFF</color>
+    <color name="qna_main_background">#151515</color>
+    <color name="qna_background">#424242</color>
+    <color name="qna_text_question">#EFEEEE</color>
+
+    <color name="qna_text_options">#F4F4F4</color>
+
+</resources>

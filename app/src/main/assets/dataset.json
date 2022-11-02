@@ -1,0 +1,205 @@
+[
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Arrays",
+        "question" : "Java array is a collection of ________",
+        "option1" : "similar type of elements",
+        "option2" : "different type of element",
+        "option3" : "heterogeneous data",
+        "option4" : "Both A and C",
+        "correct_option" : "similar type of elements"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Arrays",
+        "question" : "Array data access using _____",
+        "option1" : "Operator",
+        "option2" : "Variable",
+        "option3" : "heterogeneous data",
+        "option4" : "index",
+        "correct_option" : "index"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Arrays",
+        "question" : "At time of array initialization which is necessary to specify?",
+        "option1" : "Row",
+        "option2" : "Column",
+        "option3" : "Row and Column",
+        "option4" : "None of the above",
+        "correct_option" : "Row"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Arrays",
+        "question" : "Java Array can allocate __________",
+        "option1" : "Dynamic Memory",
+        "option2" : "Static Memory",
+        "option3" : "Both A and B",
+        "option4" : "None of the above",
+        "correct_option" : "Static Memory"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Arrays",
+        "question" : "Which of the following is an incorrect array declaration?",
+        "option1" : "int [] arr = new int[5]",
+        "option2" : "int arr[] = new int[5]",
+        "option3" : "int arr[] = new int[5]",
+        "option4" : "int arr[] = int [5] new",
+        "correct_option" : "int arr[] = int [5] new"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Arrays",
+        "question" : "Index in array start with ______",
+        "option1" : "-1",
+        "option2" : "0",
+        "option3" : "1",
+        "option4" : "infinite",
+        "correct_option" : "infinite"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Arrays",
+        "question" : "Which of the following is used to declare,construct, and initlaize an array?",
+        "option1" : "{1, 2, 3, 4}",
+        "option2" : "(1, 2, 3)",
+        "option3" : "{}",
+        "option4" : "{1, 2, 3}",
+        "correct_option" : "{1, 2, 3}"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Arrays",
+        "question" : "We can calculate the length of an array using ________",
+        "option1" : "sizeof(array)",
+        "option2" : "array.len",
+        "option3" : "array.length",
+        "option4" : "array.length",
+        "correct_option" : "array.length"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Arrays",
+        "question" : "Which of the following is advantage of java array?",
+        "option1" : "Code Optimization",
+        "option2" : "Random access",
+        "option3" : "Size No-Limit",
+        "option4" : "Both A and B",
+        "correct_option" : "Code Optimization"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Arrays",
+        "question" : "In java, array elements are stored in ________ memory locations",
+        "option1" : "Random",
+        "option2" : "Sequential",
+        "option3" : "Sequential & Random",
+        "option4" : "Binary search",
+        "correct_option" : "Sequential"
+    },
+
+
+
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Strings",
+        "question" : "What is the output of the following code?\nString S;\nSystem.Out.println(“S =  “+S);",
+        "option1" : "null",
+        "option2" : "error",
+        "option3" : "= S",
+        "option4" : "S =",
+        "correct_option" : "null"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Strings",
+        "question" : "Which of the following are the wrapper classes?",
+        "option1" : "Random",
+        "option2" : "byte",
+        "option3" : "short",
+        "option4" : "Integer",
+        "correct_option" : "Integer"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Strings",
+        "question" : "Given the code\nString S1=”yes”\nString S2=”yes”\nString S3=new String(S1);\nWhich of the following would equal to True?",
+        "option1" : "i and ii only",
+        "option2" : "ii and iii only",
+        "option3" : "ii and iv only",
+        "option4" : "i and iv only",
+        "correct_option" : "ii and iv only"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Strings",
+        "question" : "Which of the following method call returns negative",
+        "option1" : "S2.compareTo(S1)",
+        "option2" : "S1.compareTo(S2)",
+        "option3" : "compare S1 To S2",
+        "option4" : "S1.compare(S2)",
+        "correct_option" : "S1.compareTo(S2)"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Strings",
+        "question" : "The method ……………………………. sets the length of the string",
+        "option1" : "S1.setLength(n)",
+        "option2" : "S1.AddLength(n)",
+        "option3" : "S1.LengthAdd(n)",
+        "option4" : "S1.Append(n)",
+        "correct_option" : "S1.setLength(n)"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Strings",
+        "question" : "Java compiler provides restrictions to perform which of the following conversions.",
+        "option1" : "i and ii only",
+        "option2" : "ii and iii only",
+        "option3" : "i and iii only",
+        "option4" : "All i, ii and iii",
+        "correct_option" : "All i, ii and iii"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Strings",
+        "question" : "We can use …………………….. feature to convert primitive data types to wrapper class types automatically.",
+        "option1" : "autoboxing",
+        "option2" : "unboxing",
+        "option3" : "annotations",
+        "option4" : "Both A and B",
+        "correct_option" : "Both A and B"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Strings",
+        "question" : "We can use …………………….. feature to convert primitive data types to wrapper class types automatically.",
+        "option1" : "autoboxing",
+        "option2" : "unboxing",
+        "option3" : "annotations",
+        "option4" : "Both A and B",
+        "correct_option" : "Both A and B"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Strings",
+        "question" : "We can use …………………….. feature to convert primitive data types to wrapper class types automatically.",
+        "option1" : "autoboxing",
+        "option2" : "unboxing",
+        "option3" : "annotations",
+        "option4" : "Both A and B",
+        "correct_option" : "Both A and B"
+    },
+    {
+        "main_topic" : "JAVA",
+        "sub_topic" : "Strings",
+        "question" : "Which of the following method call returns negative",
+        "option1" : "S2.compareTo(S1)",
+        "option2" : "S1.compareTo(S2)",
+        "option3" : "compare S1 To S2",
+        "option4" : "S1.compare(S2)",
+        "correct_option" : "S1.compareTo(S2)"
+    }
+]
